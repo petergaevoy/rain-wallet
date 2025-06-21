@@ -1,0 +1,33 @@
+{
+  "name": "rain_wallet",
+  "version": "1.0.0",
+  "description": "12 word mnemonic generator based on rain drops",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petergaevoy/rain-wallet.git"
+  },
+  "keywords": [
+    "bip39",
+    "crypto",
+    "wallet",
+    "mnemonic",
+    "generator",
+    "rain",
+    "js",
+    "pet"
+  ],
+  "author": "Peter Gaevoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petergaevoy/rain-wallet/issues"
+  },
+  "homepage": "https://github.com/petergaevoy/rain-wallet#readme",
+  "dependencies": {
+    "bip39": "^3.1.0"
+  }
+}
